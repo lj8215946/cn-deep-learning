@@ -3,4 +3,4 @@ checkpoint
 cifar-10-python.tar.gz
 image_classification*
 preprocess_*
-
+cifar-10-batches-py/
