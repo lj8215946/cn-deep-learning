@@ -1,12 +1,16 @@
 .idea/
+tutorials/intro-to-rnns/.ipynb_checkpoints/
+image-classification/__pycache__/
+cifar-10-batches-py/
+venv/
 checkpoint
 cifar-10-python.tar.gz
 image_classification*
 preprocess_*
-cifar-10-batches-py/
 tutorials/transfer-learning/labels
 tutorials/transfer-learning/codes
 MNIST_data/train-labels-idx1-ubyte.gz
 MNIST_data/train-images-idx3-ubyte.gz
 MNIST_data/t10k-labels-idx1-ubyte.gz
 MNIST_data/t10k-images-idx3-ubyte.gz
+
