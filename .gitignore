@@ -1,4 +1,5 @@
 .idea/
+.idea/modules.xml
 tutorials/intro-to-rnns/.ipynb_checkpoints/
 image-classification/__pycache__/
 cifar-10-batches-py/
